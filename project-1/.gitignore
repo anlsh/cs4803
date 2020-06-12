@@ -1,0 +1,5 @@
+build
+build/
+1_cs231n/cs231n/datasets/cifar-10-batches-py/
+im2col_cython.c
+im2col_cython.so

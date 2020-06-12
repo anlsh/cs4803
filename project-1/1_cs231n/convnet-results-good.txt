@@ -1,0 +1,120 @@
+starting iteration  0
+Finished epoch 0 / 1: cost 2.321855, train: 0.120000, val 0.129000, lr 1.000000e-04
+starting iteration  10
+starting iteration  20
+starting iteration  30
+starting iteration  40
+starting iteration  50
+Finished epoch 0 / 1: cost 1.739663, train: 0.348000, val 0.361000, lr 1.000000e-04
+starting iteration  60
+starting iteration  70
+starting iteration  80
+starting iteration  90
+starting iteration  100
+Finished epoch 0 / 1: cost 1.755813, train: 0.382000, val 0.410000, lr 1.000000e-04
+starting iteration  110
+starting iteration  120
+starting iteration  130
+starting iteration  140
+starting iteration  150
+Finished epoch 0 / 1: cost 1.885655, train: 0.387000, val 0.367000, lr 1.000000e-04
+starting iteration  160
+starting iteration  170
+starting iteration  180
+starting iteration  190
+starting iteration  200
+Finished epoch 0 / 1: cost 1.901071, train: 0.431000, val 0.390000, lr 1.000000e-04
+starting iteration  210
+starting iteration  220
+starting iteration  230
+starting iteration  240
+starting iteration  250
+Finished epoch 0 / 1: cost 1.877867, train: 0.425000, val 0.402000, lr 1.000000e-04
+starting iteration  260
+starting iteration  270
+starting iteration  280
+starting iteration  290
+starting iteration  300
+Finished epoch 0 / 1: cost 1.627193, train: 0.389000, val 0.424000, lr 1.000000e-04
+starting iteration  310
+starting iteration  320
+starting iteration  330
+starting iteration  340
+starting iteration  350
+Finished epoch 0 / 1: cost 1.964497, train: 0.399000, val 0.418000, lr 1.000000e-04
+starting iteration  360
+starting iteration  370
+starting iteration  380
+starting iteration  390
+starting iteration  400
+Finished epoch 0 / 1: cost 2.088080, train: 0.461000, val 0.473000, lr 1.000000e-04
+starting iteration  410
+starting iteration  420
+starting iteration  430
+starting iteration  440
+starting iteration  450
+Finished epoch 0 / 1: cost 1.336792, train: 0.476000, val 0.476000, lr 1.000000e-04
+starting iteration  460
+starting iteration  470
+starting iteration  480
+starting iteration  490
+starting iteration  500
+Finished epoch 0 / 1: cost 1.921243, train: 0.427000, val 0.434000, lr 1.000000e-04
+starting iteration  510
+starting iteration  520
+starting iteration  530
+starting iteration  540
+starting iteration  550
+Finished epoch 0 / 1: cost 1.447728, train: 0.453000, val 0.436000, lr 1.000000e-04
+starting iteration  560
+starting iteration  570
+starting iteration  580
+starting iteration  590
+starting iteration  600
+Finished epoch 0 / 1: cost 1.302034, train: 0.530000, val 0.495000, lr 1.000000e-04
+starting iteration  610
+starting iteration  620
+starting iteration  630
+starting iteration  640
+starting iteration  650
+Finished epoch 0 / 1: cost 1.154439, train: 0.448000, val 0.459000, lr 1.000000e-04
+starting iteration  660
+starting iteration  670
+starting iteration  680
+starting iteration  690
+starting iteration  700
+Finished epoch 0 / 1: cost 1.421600, train: 0.478000, val 0.473000, lr 1.000000e-04
+starting iteration  710
+starting iteration  720
+starting iteration  730
+starting iteration  740
+starting iteration  750
+Finished epoch 0 / 1: cost 1.484304, train: 0.463000, val 0.474000, lr 1.000000e-04
+starting iteration  760
+starting iteration  770
+starting iteration  780
+starting iteration  790
+starting iteration  800
+Finished epoch 0 / 1: cost 1.835879, train: 0.495000, val 0.499000, lr 1.000000e-04
+starting iteration  810
+starting iteration  820
+starting iteration  830
+starting iteration  840
+starting iteration  850
+Finished epoch 0 / 1: cost 1.350826, train: 0.471000, val 0.481000, lr 1.000000e-04
+starting iteration  860
+starting iteration  870
+starting iteration  880
+starting iteration  890
+starting iteration  900
+Finished epoch 0 / 1: cost 1.468329, train: 0.512000, val 0.500000, lr 1.000000e-04
+starting iteration  910
+starting iteration  920
+starting iteration  930
+starting iteration  940
+starting iteration  950
+Finished epoch 0 / 1: cost 1.464628, train: 0.506000, val 0.474000, lr 1.000000e-04
+starting iteration  960
+starting iteration  970
+Finished epoch 1 / 1: cost 1.534886, train: 0.561000, val 0.515000, lr 9.500000e-05
+finished optimization. best validation accuracy: 0.515000

@@ -1,0 +1,2 @@
+rm -f hw1.zip
+zip -r hw1.zip . -x "*.git*" "1_cs231n/*cs231n/datasets*" "1_cs231n/*.ipynb_checkpoints*" "1_cs231n/*README.md" "*collect_submission.sh" "1_cs231n/*requirements.txt" "1_cs231n/.env/*" "1_cs231n/*.pyc" "1_cs231n/*cs231n/build/*" "1_cs231n/__pycache__/*" "2_pytorch/*.git*" "2_pytorch/*data/*" "2_pytorch/*.pt" "2_pytorch/*.ipynb_checkpoints*" "2_pytorch/*README.md" "2_pytorch/*collect_submission.sh" "2_pytorch/*requirements.txt" "2_pytorch/.env/*" "2_pytorch/*.pyc" "2_pytorch/*__pycache__/*"
